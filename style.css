@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url("bgdesert.jpg");
+}
+</style>
+</head>
+<body>
+
+
+.gallery img{
+        width: 100%;
+ }
+
+p{
+        font-family:Helvetica sans-serif
+    }
+
+</html>
